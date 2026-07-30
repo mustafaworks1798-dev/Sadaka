@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sadaka</title>
+    
+    <!-- PWA & Manifest Links -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#10b981">
+    <link rel="icon" href="icons/icon-192.png" type="image/png">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    
+    <!-- CSS Link -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body data-theme="dark">
+
+    <!-- Header & Navigation -->
+    <header class="app-header">
+        <div class="logo">
+            <i class="fa-solid fa-kaaba"></i>
+            <h1>Sadaka</h1>
+        </div>
+        <div class="header-controls">
+            <!-- Share App / Sadaqah Button -->
+            <button id="shareBtn" class="control-btn share-btn" title="مشاركة الاجر والصدقة">
+                <i class="fa-solid fa-share-nodes"></i> <span class="btn-text">مشاركة الأجر</span>
+            </button>
+            <!-- Language Selector -->
+            <select id="langSelect" class="control-btn">
+                <option value="ar">العربية</option>
+                <option value="en">English</option>
+                <option value="fr">Français</option>
+                <option value="es">Español</option>
+                <option value="de">Deutsch</option>
+                <option value="ru">Русский</option>
+                <option value="tr">Türkçe</option>
+                <option value="id">Bahasa Indonesia</option>
+            </select>
+            <!-- Theme Toggle -->
+            <button id="themeToggle" class="control-btn" title="تغيير المظهر">
+                <i class="fa-solid fa-moon"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="container">
+
+        <!-- PWA Install Banner -->
+        <div id="installBanner" class="install-banner hidden">
+            <div class="install-info">
+                <i class="fa-solid fa-mobile-screen-button"></i>
+                <span id="installText">تثبيت تطبيق Sadaka على هاتفك لسهولة الوصول</span>
+            </div>
+            <button id="installBtn" class="primary-btn">تثبيت</button>
+        </div>
+
+        <!-- Section 1: Prayer Times & Countdown -->
+        <section class="card prayer-section">
+            <div class="section-title">
+                <i class="fa-solid fa-clock"></i>
+                <h2 id="prayerTitle">مواقيت الصلاة</h2>
+            </div>
+            <div class="location-info">
+                <i class="fa-solid fa-location-dot"></i>
+                <span id="locationName">جاري تحديد الموقع...</span>
+            </div>
+            <div class="countdown-box">
+                <span id="nextPrayerLabel">الصلاة القادمة:</span>
+                <h3 id="nextPrayerName">--</h3>
+                <div id="countdownTimer" class="timer-digits">--:--:--</div>
+            </div>
+            <div class="prayer-times-grid" id="prayerTimesGrid"></div>
+        </section>
+
+        <!-- Section 2: Qibla Direction -->
+        <section class="card qibla-section">
+            <div class="section-title">
+                <i class="fa-solid fa-compass"></i>
+                <h2 id="qiblaTitle">اتجاه القبلة</h2>
+            </div>
+            <div class="qibla-container">
+                <div class="compass-circle" id="compassCircle">
+                    <div class="compass-arrow" id="compassArrow"><i class="fa-solid fa-arrow-up"></i></div>
+                </div>
+                <p id="qiblaText">حساب اتجاه القبلة وحركة الجهاز...</p>
+            </div>
+        </section>
+
+        <!-- Section 3: Daily Hadith -->
+        <section class="card hadith-section">
+            <div class="section-title">
+                <i class="fa-solid fa-book-open"></i>
+                <h2 id="hadithTitle">حديث اليوم النبوي</h2>
+            </div>
+            <div class="hadith-box">
+                <i class="fa-solid fa-quote-right quote-icon"></i>
+                <p id="hadithContent">جاري تحميل الحديث الشريف...</p>
+                <span id="hadithReference" class="reference"></span>
+            </div>
+        </section>
+
+        <!-- Section 4: Adhkar Category Selector & List -->
+        <section class="card adhkar-section">
+            <div class="section-title">
+                <i class="fa-solid fa-hands-praying"></i>
+                <h2 id="adhkarHeaderTitle">الأذكار والأدعية</h2>
+            </div>
+            <!-- Categories Tabs -->
+            <div class="adhkar-tabs" id="adhkarTabs">
+                <button class="tab-btn active" data-category="morning" id="tabMorning">الصباح</button>
+                <button class="tab-btn" data-category="evening" id="tabEvening">المساء</button>
+                <button class="tab-btn" data-category="sleep" id="tabSleep">النوم</button>
+                <button class="tab-btn" data-category="wakeup" id="tabWakeup">الاستيقاظ</button>
+                <button class="tab-btn" data-category="travel" id="tabTravel">السفر</button>
+                <button class="tab-btn" data-category="mosque" id="tabMosque">المسجد</button>
+                <button class="tab-btn" data-category="food" id="tabFood">الطعام</button>
+            </div>
+            <!-- Adhkar Items List -->
+            <div class="adhkar-list" id="adhkarList"></div>
+        </section>
+
+        <!-- Section 5: Settings & Notifications -->
+        <section class="card settings-section">
+            <div class="section-title">
+                <i class="fa-solid fa-gear"></i>
+                <h2 id="settingsTitle">الإعدادات والتنبيهات</h2>
+            </div>
+            <div class="setting-item">
+                <span id="notifSettingText">تفعيل إشعارات الصلاة والأذكار مع الأذان</span>
+                <label class="switch">
+                    <input type="checkbox" id="notifToggle">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Sadaka App &copy; 2026 - جميع الحقوق محفوظة</p>
+    </footer>
+
+    <!-- JS Link -->
+    <script src="script.js"></script>
+</body>
+</html>
+
+

@@ -1,0 +1,923 @@
+{
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": {
+        "ar": "عمر بن الخطاب رضي الله عنه",
+        "en": "Umar bin Al-Khattab",
+        "fr": "Umar ibn al-Khattab",
+        "es": "Umar bin Al-Khattab",
+        "de": "Umar ibn al-Chattab",
+        "ru": "Умар ибн аль-Хаттаб",
+        "id": "Umar bin Khattab",
+        "tr": "Ömer bin Hattab"
+      },
+      "text": {
+        "ar": "إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى.",
+        "en": "Actions are but by intentions, and every man shall have but that which he intended.",
+        "fr": "Les actions nevalent que par leurs intentions, et chacun n'aura que ce qu'il a intentionné.",
+        "es": "Las obras valen por sus intenciones, y a cada hombre le corresponderá según lo que tuvo por intención.",
+        "de": "Die Taten werden nur nach den Absichten bewertet, und jedem Menschen gebührt nur das, was er beabsichtigt hat.",
+        "ru": "Поистине, дела оцениваются только по намерениям и, поистине, каждому человеку достанется только то, что он намеревался совершить.",
+        "id": "Sesungguhnya amal itu tergantung pada niatnya, dan sesungguhnya bagi setiap orang apa yang ia niatkan.",
+        "tr": "Ameller niyetlere göredir. Herkese niyet ettiği şey vardır."
+      }
+    },
+    {
+      "id": 2,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "كلمتان خفيفتان على اللسان، ثقيلتان في الميزان، حبيبتان إلى الرحمن: سبحان الله وبحمده، سبحان الله العظيم.",
+        "en": "Two phrases are light on the tongue, heavy on the scales, and beloved to the Most Merciful: Subhanallahi wa bihamdihi, Subhanallahi al-Azeem.",
+        "fr": "Deux paroles légères sur la langue, lourdes sur la balance, aimées du Tout Miséricordieux : Subhanallahi wa bihamdihi, Subhanallahi al-Azeem.",
+        "es": "Dos palabras ligeras en la lengua, pesadas en la balanza y amadas por el Misericordioso: Subhanallahi wa bihamdihi, Subhanallahi al-Azeem.",
+        "de": "Zwei Worte sind leicht auf der Zunge, schwer auf der Waage und beliebt beim Barmherzigen: Subhanallahi wa bihamdihi, Subhanallahi al-Azeem.",
+        "ru": "Два слова, легкие на языке, тяжелые на весах и любимые Всемилостивым: Субханаллахи ва бихамдихи, Субханаллахи аль-Азым.",
+        "id": "Dua kalimat yang ringan di lisan, berat di timbangan, dan dicintai oleh Yang Maha Pengasih: Subhanallahi wa bihamdihi, Subhanallahi al-Azeem.",
+        "tr": "Dilde hafif, mizanda ağır, Rahman'a sevimli iki kelime vardır: Subhanallahi ve bihamdihi, Subhanallahi'l-Azim."
+      }
+    },
+    {
+      "id": 3,
+      "narrator": {
+        "ar": "عبد الله بن مسعود رضي الله عنه",
+        "en": "Abdullah bin Mas'ud",
+        "fr": "Abdullah ibn Mas'ud",
+        "es": "Abdullah bin Mas'ud",
+        "de": "Abdullah ibn Mas'ud",
+        "ru": "Абдуллах ибн Мас'уд",
+        "id": "Abdullah bin Mas'ud",
+        "tr": "Abdullah bin Mes'ud"
+      },
+      "text": {
+        "ar": "سألت النبي صلى الله عليه وسلم: أي العمل أحب إلى الله؟ قال: الصلاة على وقتها.",
+        "en": "I asked the Prophet, 'Which deed is most beloved to Allah?' He said, 'Prayer at its proper time.'",
+        "fr": "J'ai interrogé le Prophète : « Quelle œuvre est la plus aimée d'Allah ? » Il a dit : « La prière à son heure. »",
+        "es": "Pregunté al Profeta: '¿Qué obra es la más amada por Allah?' Dijo: 'La oración en su debido tiempo.'",
+        "de": "Ich fragte den Propheten: 'Welche Tat ist Allah am liebsten?' Er sagte: 'Das Gebet zur rechten Zeit.'",
+        "ru": "Я спросил Пророка: «Какое дело больше всего любит Аллах?» Он сказал: «Молитва вовремя».",
+        "id": "Aku bertanya kepada Nabi, 'Amalan apakah yang paling dicintai oleh Allah?' Beliau bersabda, 'Salat pada waktunya.'",
+        "tr": "Peygamber'e sordum: 'Allah'a en sevimli olan amel hangisidir?' Buyurdu ki: 'Vaktinde kılınan namaz.'"
+      }
+    },
+    {
+      "id": 4,
+      "narrator": {
+        "ar": "النعمان بن بشير رضي الله عنهما",
+        "en": "An-Nu'man bin Bashir",
+        "fr": "An-Nu'man ibn Bashir",
+        "es": "An-Nu'man bin Bashir",
+        "de": "An-Nu'man ibn Baschir",
+        "ru": "Ан-Ну'ман ибн Башир",
+        "id": "An-Nu'man bin Basyir",
+        "tr": "Numan bin Beşir"
+      },
+      "text": {
+        "ar": "الدعاء هو العبادة.",
+        "en": "Supplication is worship.",
+        "fr": "L'invocation est l'adoration même.",
+        "es": "La súplica es la adoración.",
+        "de": "Das Bittgebet ist die Anbetung.",
+        "ru": "Мольба (дуа) — это поклонение.",
+        "id": "Doa adalah ibadah.",
+        "tr": "Dua ibadettir."
+      }
+    },
+    {
+      "id": 5,
+      "narrator": {
+        "ar": "أبو ذر الغفاري رضي الله عنه",
+        "en": "Abu Dharr al-Ghifari",
+        "fr": "Abû Dharr al-Ghifârî",
+        "es": "Abu Dharr al-Ghifari",
+        "de": "Abu Dharr al-Ghifari",
+        "ru": "Абу Зарр аль-Гифари",
+        "id": "Abu Dzar al-Ghifari",
+        "tr": "Ebu Zer el-Gıfari"
+      },
+      "text": {
+        "ar": "تبسمك في وجه أخيك صدقة لك.",
+        "en": "Your smiling in the face of your brother is charity for you.",
+        "fr": "Ton sourire sur le visage de ton frère est une aumône pour toi.",
+        "es": "Tu sonrisa en el rostro de tu hermano es caridad para ti.",
+        "de": "Dein Lächeln im Gesicht deines Bruders ist eine Wohltat für dich.",
+        "ru": "Твоя улыбка в лицо твоего брата — это милостыня.",
+        "id": "Senyummu di hadapan saudaramu adalah sedekah.",
+        "tr": "Kardeşinin yüzüne gülümsemen senin için bir sadakadır."
+      }
+    },
+    {
+      "id": 6,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت.",
+        "en": "He who believes in Allah and the Last Day should either speak good or remain silent.",
+        "fr": "Quiconque croit en Allah et au Jour Dernier, qu'il dise du bien ou qu'il se taise.",
+        "es": "Quien crea en Allah y en el Último Día, que diga algo bueno o guarde silencio.",
+        "de": "Wer an Allah und den Jüngsten Tag glaubt, der soll Gutes sprechen oder schweigen.",
+        "ru": "Тот, кто верует в Аллаха и в Последний день, пусть говорит благавое или молчит.",
+        "id": "Barangsiapa yang beriman kepada Allah dan Hari Akhir, hendaklah ia berkata baik atau diam.",
+        "tr": "Kim Allah'a ve ahiret gününe inanıyorsa, ya hayır söylesin ya da sussun."
+      }
+    },
+    {
+      "id": 7,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "لا تغضب ولك الجنة.",
+        "en": "Do not become angry and Paradise will be yours.",
+        "fr": "Ne te mets pas en colère et le Paradis te sera accordé.",
+        "es": "No te enojes y el Paraíso será tuyo.",
+        "de": "Werde nicht zornig, und das Paradies gehört dir.",
+        "ru": "Не гневайся, и тебе достанется Рай.",
+        "id": "Janganlah marah, maka bagimu surga.",
+        "tr": "Öfkelenme, cennet senin olsun."
+      }
+    },
+    {
+      "id": 8,
+      "narrator": {
+        "ar": "أنس بن مالك رضي الله عنه",
+        "en": "Anas bin Malik",
+        "fr": "Anas ibn Malik",
+        "es": "Anas bin Malik",
+        "de": "Anas ibn Malik",
+        "ru": "Анас ибн Малик",
+        "id": "Anas bin Malik",
+        "tr": "Enes bin Malik"
+      },
+      "text": {
+        "ar": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه.",
+        "en": "None of you truly believes until he loves for his brother what he loves for himself.",
+        "fr": "L'un de vous ne croit pas réellement jusqu'à ce qu'il aime pour son frère ce qu'il aime pour lui-même.",
+        "es": "Ninguno de vosotros cree verdaderamente hasta que ama para su hermano lo que ama para sí mismo.",
+        "de": "Keiner von euch glaubt wirklich, bis er für seinen Bruder das liebt, was er für sich selbst liebt.",
+        "ru": "Не уверует никто из вас до тех пор, пока не станет желать своему брату того же, чего желает самому себе.",
+        "id": "Tidak beriman salah seorang di antara kalian hingga ia mencintai untuk saudarasnya apa yang ia cintai untuk dirinya sendiri.",
+        "tr": "Hiçbiriniz kendisi için istediğini kardeşi için istemedikçe gerçek manada iman etmiş olamaz."
+      }
+    },
+    {
+      "id": 9,
+      "narrator": {
+        "ar": "جابر بن عبد الله رضي الله عنهما",
+        "en": "Jabir bin Abdullah",
+        "fr": "Jabir ibn Abdullah",
+        "es": "Jabir bin Abdullah",
+        "de": "Dschabir ibn Abdullah",
+        "ru": "Джабир ибн Абдуллах",
+        "id": "Jabir bin Abdullah",
+        "tr": "Cabir bin Abdullah"
+      },
+      "text": {
+        "ar": "كل معروف صدقة.",
+        "en": "Every act of goodness is charity.",
+        "fr": "Tout acte de bienfaisance est une aumône.",
+        "es": "Todo acto de bondad es caridad.",
+        "de": "Jede Tat des Guten ist eine Wohltat.",
+        "ru": "Каждый одобряемый поступок — это милостыня.",
+        "id": "Setiap kebaikan adalah sedekah.",
+        "tr": "Her iyilik bir sadakadır."
+      }
+    },
+    {
+      "id": 10,
+      "narrator": {
+        "ar": "سهل بن سعد رضي الله عنه",
+        "en": "Sahl bin Sa'd",
+        "fr": "Sahl ibn Sa'd",
+        "es": "Sahl bin Sa'd",
+        "de": "Sahl ibn Sa'd",
+        "ru": "Сахль ибн Са'д",
+        "id": "Sahl bin Sa'd",
+        "tr": "Sehl bin Sa'd"
+      },
+      "text": {
+        "ar": "أنا وكافل اليتيم في الجنة هكذا.",
+        "en": "I and the caretaker of an orphan will be in Paradise like this.",
+        "fr": "Moi et le tuteur de l'orphelin serons dans le Paradis comme ceci.",
+        "es": "Yo y el cuidador del huérfano estaremos en el Paraíso así.",
+        "de": "Ich und der Betreuer des Waisenkindes werden im Paradies so sein.",
+        "ru": "Я и опекун сироты будем в Раю вот так.",
+        "id": "Aku dan pengurus anak yatim di surga seperti ini.",
+        "tr": "Ben ve yetime kefil olan kimse cennette şöylece beraber bulunacağız."
+      }
+    },
+    {
+      "id": 11,
+      "narrator": {
+        "ar": "عائشة رضي الله عنها",
+        "en": "Aisha",
+        "fr": "Aïcha",
+        "es": "Aisha",
+        "de": "Aischa",
+        "ru": "Аиша",
+        "id": "Aisyah",
+        "tr": "Aişe"
+      },
+      "text": {
+        "ar": "إن الله رفيق يحب الرفق في الأمر كله.",
+        "en": "Verily, Allah is gentle and loves gentleness in all matters.",
+        "fr": "Certes, Allah est doux et aime la douceur dans toute chose.",
+        "es": "Ciertamente, Allah es clemente y ama la clemencia en todos los asuntos.",
+        "de": "Wahrlich, Allah ist sanftmütig und liebt die Sanftmut in allen Angelegenheiten.",
+        "ru": "Поистине, Аллах — Добрый, и Он любит доброту во всех делах.",
+        "id": "Sesungguhnya Allah itu Maha Lembut dan mencintai kelembutan dalam segala urusan.",
+        "tr": "Şüphesiz Allah refiktir (yumuşak davranandır), her iş için rıfkı (yumuşaklığı) sever."
+      }
+    },
+    {
+      "id": 12,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "المسلم من سلم المسلمون من لسانه ويده.",
+        "en": "A Muslim is the one from whose tongue and hands the Muslims are safe.",
+        "fr": "Le musulman est celui dont les musulmans sont à l'abri de sa langue et de sa main.",
+        "es": "El musulmán es aquel de cuya lengua y manos están a salvo los demás musulmanes.",
+        "de": "Der Muslim ist derjenige, vor dessen Zunge und Hand die Muslime sicher sind.",
+        "ru": "Мусульманин — это тот, от языка и рук которого абежны другие мусульмане.",
+        "id": "Seorang Muslim adalah orang yang kaum Muslimin selamat dari lisan dan tangannya.",
+        "tr": "Müslüman, dilinden ve elinden Müslümanların güvende olduğu kişidir."
+      }
+    },
+    {
+      "id": 13,
+      "narrator": {
+        "ar": "عبد الله بن عمر رضي الله عنهما",
+        "en": "Abdullah bin Umar",
+        "fr": "Abdullah ibn Umar",
+        "es": "Abdullah bin Umar",
+        "de": "Abdullah ibn Umar",
+        "ru": "Абдуллах ибн Умар",
+        "id": "Abdullah bin Umar",
+        "tr": "Abdullah bin Ömer"
+      },
+      "text": {
+        "ar": "المسلم أخو المسلم، لا يظلمه ولا يسلمه.",
+        "en": "A Muslim is the brother of a Muslim. He does not oppress him nor surrender him.",
+        "fr": "Le musulman est le frère du musulman, il ne lui fait pas d'injustice et ne le livre pas.",
+        "es": "El musulmán es hermano del musulmán; no le oprime ni le entrega.",
+        "de": "Der Muslim ist der Bruder des Muslims; er tut ihm kein Unrecht und lässt ihn nicht im Stich.",
+        "ru": "Мусульманин — брат мусульманина: он не притесняет его и не оставляет без помощи.",
+        "id": "Seorang Muslim adalah saudara bagi Muslim lainnya, ia tidak boleh menzaliminya dan tidak boleh menyerahkannya.",
+        "tr": "Müslüman müslümanın kardeşidir; ona zulmetmez ve onu yalnız bırakmaz."
+      }
+    },
+    {
+      "id": 14,
+      "narrator": {
+        "ar": "أبو مسعود الأنصاري رضي الله عنه",
+        "en": "Abu Mas'ud al-Ansari",
+        "fr": "Abû Mas'ud al-Ansari",
+        "es": "Abu Mas'ud al-Ansari",
+        "de": "Abu Mas'ud al-Ansari",
+        "ru": "Абу Мас'уд аль-Ансари",
+        "id": "Abu Mas'ud al-Ansari",
+        "tr": "Ebu Mes'ud el-Ensari"
+      },
+      "text": {
+        "ar": "من دل على خير فله مثل أجر فاعله.",
+        "en": "He who guides to something good has a reward similar to that of its doer.",
+        "fr": "Celui qui indique un bien a une récompense semblable à celle de son auteur.",
+        "es": "Quien guía hacia el bien tiene una recompensa similar a la de quien lo hace.",
+        "de": "Wer auf etwas Gutes hinweist, hat denselben Lohn wie derjenige, der es tut.",
+        "ru": "Указавшему на благо полагается такая же награда, как и совершившему его.",
+        "id": "Barangsiapa menunjukkan kepada kebaikan, maka ia mendapatkan pahala seperti orang yang melakukannya.",
+        "tr": "Kim bir hayra kılavuzluk ederse, onu yapanın sevabı kadar sevap almıştır."
+      }
+    },
+    {
+      "id": 15,
+      "narrator": {
+        "ar": "جابر بن عبد الله رضي الله عنهما",
+        "en": "Jabir bin Abdullah",
+        "fr": "Jabir ibn Abdullah",
+        "es": "Jabir bin Abdullah",
+        "de": "Dschabir ibn Abdullah",
+        "ru": "Джабир ибн Абдуллах",
+        "id": "Jabir bin Abdullah",
+        "tr": "Cabir bin Abdullah"
+      },
+      "text": {
+        "ar": "اتقوا الظلم، فإن الظلم ظلمات يوم القيامة.",
+        "en": "Beware of oppression, for oppression is darkness on the Day of Resurrection.",
+        "fr": "Craignez l'injustice, car l'injustice sera des ténèbres au Jour de la Résurrection.",
+        "es": "Temed la opresión, porque la opresión será oscuridad el Día de la Resurrección.",
+        "de": "Hütet euch vor Unrecht, denn Unrecht ist Finsternis am Tag der Auferstehung.",
+        "ru": "Остерегайтесь притеснения, ибо притеснение — это мраки в День воскресения.",
+        "id": "Takutlah kalian kepada kezaliman, karena kezaliman adalah kegelapan di hari kiamat.",
+        "tr": "Zulümden sakının; çünkü zulüm, kıyamet gününde karanlıklar olacaktır."
+      }
+    },
+    {
+      "id": 16,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "رغم أنف رجل ذكرت عنده فلم يصل علي.",
+        "en": "May the man before whom I am mentioned, and he does not send blessings upon me, be humiliated.",
+        "fr": "Qu'il soit humilié l'homme auprès de qui on m'évoque et qui ne prie pas sur moi.",
+        "es": "Que sea humillado el hombre ante quien soy mencionado y no envía bendiciones sobre mí.",
+        "de": "Erniedrigt sei der Mann, in dessen Gegenwart ich erwähnt werde und der keinen Segen über mich spricht.",
+        "ru": "Презрен человек, при котором упомянули меня, а он не призвал на меня благословение.",
+        "id": "Celakalah seseorang yang namaku disebut di sisinya, namun ia tidak bershalawat atasku.",
+        "tr": "Yanı anılıp da bana salavat getirmeyen kişinin burnu sürtülsün."
+      }
+    },
+    {
+      "id": 17,
+      "narrator": {
+        "ar": "عبد الله بن عمرو رضي الله عنهما",
+        "en": "Abdullah bin Amr",
+        "fr": "Abdullah ibn Amr",
+        "es": "Abdullah bin Amr",
+        "de": "Abdullah ibn Amr",
+        "ru": "Абдуллах ибн Амр",
+        "id": "Abdullah bin Amr",
+        "tr": "Abdullah bin Amr"
+      },
+      "text": {
+        "ar": "ارحموا ترحموا، واغفروا يغفر لكم.",
+        "en": "Be merciful and you will be shown mercy, and forgive and you will be forgiven.",
+        "fr": "Soyez miséricordieux et vous recevrez la miséricorde, pardonnez et vous serez pardonnés.",
+        "es": "Sed misericordiosos y se tendrá misericordia con vosotros; perdonad y seréis perdonados.",
+        "de": "Seid barmherzig, so wird euch Barmherzigkeit zuteil, und verzeiht, so wird euch verziehen.",
+        "ru": "Проявляйте милосердие, и к вам проявят милосердие, и прощайте, и вам простят.",
+        "id": "Kasihilah niscaya kalian dikasihi, dan ampunilah niscaya kalian diampuni.",
+        "tr": "Merhamet edin ki merhamet olunasınız, bağışlayın ki bağışlanasınız."
+      }
+    },
+    {
+      "id": 18,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "من سلك طريقا يلتمس فيه علما سهل الله له به طريقا إلى الجنة.",
+        "en": "Whoever takes a path seeking knowledge, Allah makes easy for him a path to Paradise.",
+        "fr": "Quiconque emprunte un chemin pour y chercher une science, Allah lui facilite un chemin vers le Paradis.",
+        "es": "Quien toma un camino en busca de conocimiento, Allah le facilita un camino hacia el Paraíso.",
+        "de": "Wer einen Weg beschreitet, um Wissen zu suchen, dem erleichtert Allah einen Weg zum Paradies.",
+        "ru": "Тому, кто вступил на путь поиска знания, Аллах облегчает путь к Раю.",
+        "id": "Barangsiapa menempuh suatu jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju surga.",
+        "tr": "Kim ilim talebi için bir yola girerse, Allah ona cennet yolunu kolaylaştırır."
+      }
+    },
+    {
+      "id": 19,
+      "narrator": {
+        "ar": "عثمان بن عفان رضي الله عنه",
+        "en": "Uthman bin Affan",
+        "fr": "Uthman ibn Affan",
+        "es": "Uthman bin Affan",
+        "de": "Uthman ibn Affan",
+        "ru": "Усман ибн Аффан",
+        "id": "Usman bin Affan",
+        "tr": "Osman bin Affan"
+      },
+      "text": {
+        "ar": "خيركم من تعلم القرآن وعلمه.",
+        "en": "The best of you are those who learn the Quran and teach it.",
+        "fr": "Le meilleurs d'entre vous est celui qui apprend le Coran et l'enseigne.",
+        "es": "El mejor de vosotros es el que aprende el Corán y lo enseña.",
+        "de": "Der Beste von euch ist derjenige, der den Koran lernt und ihn lehrt.",
+        "ru": "Лучший из вас тот, кто изучает Коран и обучает ему других.",
+        "id": "Sebaik-baik kalian adalah orang yang belajar Al-Qur'an dan mengajarkannya.",
+        "tr": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğreteninizdir."
+      }
+    },
+    {
+      "id": 20,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "المؤمن كيس فطن.",
+        "en": "The believer is astute and cautious.",
+        "fr": "Le croyant est avisé et perspicace.",
+        "es": "El creyente es astuto y perspicaz.",
+        "de": "Der Gläubige ist klug und scharfsinnig.",
+        "ru": "Верующий — проницателен и разумен.",
+        "id": "Seorang Mukmin itu cerdas dan cermat.",
+        "tr": "Mümin uyanık, zeki ve sezgi sahibidir."
+      }
+    },
+    {
+      "id": 21,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "الدنيا سجن المؤمن وجنة الكاف.",
+        "en": "The world is a prison for the believer and a paradise for the disbeliever.",
+        "fr": "Le bas-monde est la prison du croyant et le paradis du mécréant.",
+        "es": "El mundo es prisión para el creyente y paraíso para el incrédulo.",
+        "de": "Das Diesseits ist das Gefängnis des Gläubigen und das Paradies des Ungläubigen.",
+        "ru": "Мир этот — тюрьма для верующего и рай для неверующего.",
+        "id": "Dunia adalah penjara bagi orang mukmin dan surga bagi orang kafir.",
+        "tr": "Dünya müminin zindanı, kâfirin cennetidir."
+      }
+    },
+    {
+      "id": 22,
+      "narrator": {
+        "ar": "عبد الله بن عمرو رضي الله عنهما",
+        "en": "Abdullah bin Amr",
+        "fr": "Abdullah ibn Amr",
+        "es": "Abdullah bin Amr",
+        "de": "Abdullah ibn Amr",
+        "ru": "Абдуллах ибн Амр",
+        "id": "Abdullah bin Amr",
+        "tr": "Abdullah bin Amr"
+      },
+      "text": {
+        "ar": "رضى الرب في رضى الوالد، وسخط الرب في سخط الوالد.",
+        "en": "The pleasure of the Lord is in the pleasure of the parent, and the anger of the Lord is in the anger of the parent.",
+        "fr": "L'agrément du Seigneur réside dans l'agrément du père, et la colère du Seigneur dans la colère du père.",
+        "es": "La complacencia del Señor está en la complacencia del padre, y la ira del Señor en la ira del padre.",
+        "de": "Die Zufriedenheit des Herrn liegt in der Zufriedenheit des Vaters (Eltern), und der Zorn des Herrn liegt im Zorn des Vaters.",
+        "ru": "Довольство Господа — в довольстве родителей, а гнев Господа — в гневе родителей.",
+        "id": "Keridaan Tuhan ada pada keridaan orang tua, dan kemurkaan Tuhan ada pada kemurkaan orang tua.",
+        "tr": "Rabbin rızası babanın (ebeveynin) rızasındadır, Rabbin öfkesi de babanın öfkesindedir."
+      }
+    },
+    {
+      "id": 23,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "آية المنافق ثلاث: إذا حدث كذب، وإذا وعد أخلاف، وإذا أؤتمن خان.",
+        "en": "The signs of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is trusted he betrays.",
+        "fr": "Les signes de l'hypocrite sont au nombre de trois : lorsqu'il parle, il ment ; lorsqu'il promet, il manque à sa promesse ; et lorsqu'on lui fait confiance, il trahit.",
+        "es": "Los signos del hipócrita son tres: cuando habla miente, cuando promete incumple y cuando se le confía algo traiciona.",
+        "de": "Die Merkmale des Heuchlers sind drei: Wenn er spricht, lügt er; wenn er verspricht, bricht er sein Versprechen; und wenn ihm anvertraut wird, betrügt er.",
+        "ru": "Признаки лицемера суть три: когда он говорит, то лжет; когда обещает, то не выполняет; а когда ему доверяют, он предаёт.",
+        "id": "Tanda-tanda orang munafik itu ada tiga: jika berbicara ia berdusta, jika berjanji ia mengingkari, dan jika dipercaya ia berkhianat.",
+        "tr": "Münafığın alâmeti üçtür: Konuştuğunda yalan söyler, söz verdiğinde cayır, kendisine bir şey emanet edildiğinde hainlik eder."
+      }
+    },
+    {
+      "id": 24,
+      "narrator": {
+        "ar": "معاذ بن جبل رضي الله عنه",
+        "en": "Mu'adh bin Jabal",
+        "fr": "Mu'adh ibn Jabal",
+        "es": "Mu'adh bin Jabal",
+        "de": "Mu'adh ibn Dschabal",
+        "ru": "Муаз ибн Джабаль",
+        "id": "Mu'adz bin Jabal",
+        "tr": "Muaz bin Cebel"
+      },
+      "text": {
+        "ar": "اتق الله حيثما كنت، وأتبع السيئة الحسنة تمحها، وخالق الناس بخلق حسن.",
+        "en": "Fear Allah wherever you are, follow up a bad deed with a good deed and it will wipe it out, and deal with people with good manners.",
+        "fr": "Crains Allah où que tu sois, fais suivre la mauvaise action par la bonne action pour qu'elle l'efface, et comporte-toi avec les gens avec un bon caractère.",
+        "es": "Temes a Allah dondequiera que estés, haz seguir la mala obra por una buena obra para que la borre, y trata a las personas con buen carácter.",
+        "de": "Fürchte Allah, wo immer du bist, lass eine schlechte Tat auf eine gute folgen, um sie auszulöschen, und begegne den Menschen mit gutem Charakter.",
+        "ru": "Бойся Аллаха, где бы ты ни был, вслед за дурным поступком соверши блаженный, который сотрёт его, и относись к людям с благонравием.",
+        "id": "Bertakwalah kepada Allah di mana pun kamu berada, iringilah keburukan dengan kebaikan niscaya kebaikan itu menghapusnya, dan pergaulilah manusia dengan akhlak yang baik.",
+        "tr": "Nerede olursan ol Allah'tan kork; kötülüğün ardından hemen bir iyilik yap ki onu yok etsin; insanlara da güzel ahlakla muamele et."
+      }
+    },
+    {
+      "id": 25,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "المؤمن قوي وخير من المؤمن الضعيف وفي كل خير.",
+        "en": "The strong believer is better and more beloved to Allah than the weak believer, though in each there is good.",
+        "fr": "Le croyant fort est meilleur et plus aimé d'Allah que le croyant faible, tout en sachant qu'il y a du bien chez chacun d'eux.",
+        "es": "El creyente fuerte es mejor y más amado por Allah que el creyente débil, aunque en ambos hay bondad.",
+        "de": "Der starke Gläubige ist besser und Allah liebster als der schwache Gläubige, und in jedem ist Gut.",
+        "ru": "Сильный верующий лучше и любимчее для Аллаха, чем слабый верующий, хотя в каждом из них есть благо.",
+        "id": "Mukmin yang kuat lebih baik dan lebih dicintai Allah daripada mukmin yang lemah, namun pada masing-masing ada kebaikan.",
+        "tr": "Güçlü mümin, zayıf mümkinden Allah katında daha hayırlı ve sevgilidir. Her birinde hayır vardır."
+      }
+    },
+    {
+      "id": 26,
+      "narrator": {
+        "ar": "ثوبان رضي الله عنه",
+        "en": "Thawban",
+        "fr": "Thawban",
+        "es": "Thawban",
+        "de": "Thawban",
+        "ru": "Саубан",
+        "id": "Tsauban",
+        "tr": "Sevban"
+      },
+      "text": {
+        "ar": "عليكم بكثرة السجود، فإنك لا تسجد لله سجدة إلا رفعك الله بها درجة.",
+        "en": "You must prostrate frequently, for you do not make a prostration to Allah except that He raises you a degree by it.",
+        "fr": "Tu te dois de multiplier les prosternations, car tu ne te prosternes pas pour Allah sans qu'Il t'élève d'un degré.",
+        "es": "Debes multiplicas las prosternaciones, pues no te prosternas ante Allah sin que Él te eleve un grado por ello.",
+        "de": "Du sollst viele Niederwerfungen machen, denn du wirfst dich vor Allah nicht nieder, ohne dass Er dich dadurch um eine Stufe erhöht.",
+        "ru": "Тебе следует чаще совершать земные поклоны, ибо за каждый земной поклон перед Аллахом Он возвышает тебя на степень.",
+        "id": "Hendaklah kamu memperbanyak sujud, karena setiap kali kamu bersujud kepada Allah satu sujud, Allah akan meninggikan derajatmu karenanya.",
+        "tr": "Çokça secde etmeye bak; çünkü Allah için yaptığın her secde sebebiyle Allah seni bir derece yükseltir."
+      }
+    },
+    {
+      "id": 27,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "بادروا بالأعمال فتنا كقطع الليل المظلم.",
+        "en": "Hasten to do good deeds before trials appear like pieces of a dark night.",
+        "fr": "Hâtez-vous de faire de bonnes œuvres avant que ne surviennent des troubles semblables aux morceaux d'une nuit obscure.",
+        "es": "Apresuraos a realizar obras buenas antes de que aparezcan tribulaciones como trozos de una noche oscura.",
+        "de": "Beeilt euch mit guten Taten, bevor Prüfungen wie Teile einer finsteren Nacht hereinbrechen.",
+        "ru": "Спешите совершать благие дела до того, как настанут смуты, подобные кускам темной ночи.",
+        "id": "Bersegeralah melakukan amal saleh sebelum datangnya fitnah seperti potongan malam yang gelap gulita.",
+        "tr": "Karanlık gece parçaları gibi olan fitneler gelmeden önce salih ameller işlemekte acele edin."
+      }
+    },
+    {
+      "id": 28,
+      "narrator": {
+        "ar": "عبد الله بن مسعود رضي الله عنه",
+        "en": "Abdullah bin Mas'ud",
+        "fr": "Abdullah ibn Mas'ud",
+        "es": "Abdullah bin Mas'ud",
+        "de": "Abdullah ibn Mas'ud",
+        "ru": "Абдуллах ибн Мас'уд",
+        "id": "Abdullah bin Mas'ud",
+        "tr": "Abdullah bin Mes'ud"
+      },
+      "text": {
+        "ar": "الصدق يهدي إلى البر، وإن البر يهدي إلى الجنة.",
+        "en": "Truthfulness leads to righteousness, and righteousness leads to Paradise.",
+        "fr": "La véracité mène à la piété, et la piété mène au Paradis.",
+        "es": "La veracidad conduce a la piedad, y la piedad conduce al Paraíso.",
+        "de": "Die Wahrhaftigkeit führt zur Frömmigkeit, und die Frömmigkeit führt zum Paradies.",
+        "ru": "Правдивость ведет к благочестию, а благочестие ведет в Рай.",
+        "id": "Kejujuran itu membimbing kepada kebajikan, dan kebajikan itu membimbing ke surga.",
+        "tr": "Doğruluk iyiliğe götürür, iyilik de cennete götürür."
+      }
+    },
+    {
+      "id": 29,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "من نفس عن مؤمن كربة من كرب الدنيا نفس الله عنه كربة من كرب يوم القيامة.",
+        "en": "Whoever relieves a believer's distress of the distresses of this world, Allah will relieve him of a distress from the distresses of the Day of Resurrection.",
+        "fr": "Quiconque soulage un croyant d'une détresse de ce bas-monde, Allah le soulagera d'une détresse parmi les détresses du Jour de la Résurrection.",
+        "es": "Quien alivie la angustia de un creyente en este mundo, Allah le aliviará de una angustia el Día de la Resurrección.",
+        "de": "Wer einem Gläubigen eine Sorge von den Sorgen dieser Welt nimmt, dem nimmt Allah eine Sorge von den Sorgen des Tages der Auferstehung.",
+        "id": "Barangsiapa yang melepaskan satu kesusahan duniawi dari seorang mukmin, niscaya Allah akan melepaskan darinya satu kesusahan di hari kiamat.",
+        "tr": "Kim bir müminin dünya sıkıntılarından bir sıkıntıyı giderirse, Allah da kıyamet gününde onun sıkıntılarından birini giderir."
+      }
+    },
+    {
+      "id": 30,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "إياكم والظن، فإن الظن أكذب الحديث.",
+        "en": "Beware of suspicion, for suspicion is the most false of speech.",
+        "fr": "Méfiez-vous du soupçon, car le soupçon est le mensonge le plus mensonger.",
+        "es": "Evitad la sospecha, porque la sospecha es la forma más falsa de hablar.",
+        "de": "Hütet euch vor dem Verdacht, denn der Verdacht ist die unwahrste Rede.",
+        "ru": "Остерегайтесь подозрений, ибо подозрения — это самая лживая речь.",
+        "id": "Jauhilah prasangka buruk, karena prasangka buruk adalah perkataan yang paling dusta.",
+        "tr": "Zandan sakının; çünkü zan, sözün en yalan olanıdır."
+      }
+    },
+    {
+      "id": 31,
+      "narrator": {
+        "ar": "عقبة بن عامر رضي الله عنه",
+        "en": "Uqbah bin Amir",
+        "fr": "Uqbah ibn Amir",
+        "es": "Uqbah bin Amir",
+        "de": "Uqbah ibn Amir",
+        "ru": "Укба ибн Амир",
+        "id": "Uqbah bin Amir",
+        "tr": "Ukbe bin Amir"
+      },
+      "text": {
+        "ar": "امسك عليك لسانك، وليسعك بيتك، وابك على خطيئتك.",
+        "en": "Control your tongue, let your house be sufficient for you, and weep over your sins.",
+        "fr": "Retiens ta langue, que ta maison te suffise et pleure sur tes péchés.",
+        "es": "Controla tu lengua, que tu casa te baste y llora por tus pecados.",
+        "de": "Hüte deine Zunge, lass dein Haus für dich genügen und weine über deine Sünden.",
+        "ru": "Придерживай свой язык, пусть твой дом будет для тебя достаточным и плачь о своих грехах.",
+        "id": "Jagalah lisanmu, hendaklah rumahmu membuatmu cukup (betah), dan menangislah atas kesalahan-kesalahanmu.",
+        "tr": "Diline sahip ol, evin seni alsın (evinde otur) ve hatalarına ağla."
+      }
+    },
+    {
+      "id": 32,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "من لا يرحم لا يرحم.",
+        "en": "He who does not show mercy will not be shown mercy.",
+        "fr": "Celui qui ne fait pas miséricorde ne recevra pas miséricorde.",
+        "es": "Quien no muestra misericordia no recibirá misericordia.",
+        "de": "Wer keine Barmherzigkeit zeigt, dem wird keine Barmherzigkeit zuteil.",
+        "ru": "Тот, кто не проявляет милосердия, не получит милосердия.",
+        "id": "Barangsiapa yang tidak menyayangi, maka ia tidak akan disayangi.",
+        "tr": "Merhamet etmeyene merhamet olunmaz."
+      }
+    },
+    {
+      "id": 33,
+      "narrator": {
+        "ar": "عبد الله بن مسعود رضي الله عنه",
+        "en": "Abdullah bin Mas'ud",
+        "fr": "Abdullah ibn Mas'ud",
+        "es": "Abdullah bin Mas'ud",
+        "de": "Abdullah ibn Mas'ud",
+        "ru": "Абдуллах ибн Мас'уд",
+        "id": "Abdullah bin Mas'ud",
+        "tr": "Abdullah bin Mes'ud"
+      },
+      "text": {
+        "ar": "الندم توبة.",
+        "en": "Regret is repentance.",
+        "fr": "Le regret est un repentir.",
+        "es": "El arrepentimiento es la vuelta a Allah.",
+        "de": "Die Reue ist die Reue (Reue ist die Buße).",
+        "ru": "Раскаяние — это покаяние.",
+        "id": "Penyesalan adalah taubat.",
+        "tr": "Pişmanlık tövbedir."
+      }
+    },
+    {
+      "id": 34,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "أقرب ما يكون العبد من ربه وهو ساجد، فأكثروا الدعاء.",
+        "en": "The closest a servant is to his Lord is when he is prostrating, so increase your supplication.",
+        "fr": "Le serviteur est au plus près de son Seigneur lorsqu'il est prosterné, multipliez donc les invocations.",
+        "es": "Lo más cerca que está un siervo de su Señor es cuando está prosternado, así que multiplicad vuestras súplicas.",
+        "de": "Am nächsten ist der Diener seinem Herrn, wenn er sich niederwirft, darum vermehrt eure Bittgebete.",
+        "ru": "Ближе всего к своему Господу раб бывает во время земного поклона, так что чаще обращайтесь к Нему с мольбами.",
+        "id": "Paling dekatnya seorang hamba kepada Tuhannya adalah ketika ia sujud, maka perbanyaklah doa.",
+        "tr": "Kulun Rabbine en yakın olduğu an secde halidir; o yüzden duayı çoğaltın."
+      }
+    },
+    {
+      "id": 35,
+      "narrator": {
+        "ar": "عبد الله بن عباس رضي الله عنهما",
+        "en": "Abdullah bin Abbas",
+        "fr": "Abdullah ibn Abbas",
+        "es": "Abdullah bin Abbas",
+        "de": "Abdullah ibn Abbas",
+        "ru": "Абдуллах ибн Аббас",
+        "id": "Abdullah bin Abbas",
+        "tr": "Abdullah bin Abbas"
+      },
+      "text": {
+        "ar": "احفظ الله يحفظك، احفظ الله تجده تجاهك.",
+        "en": "Be mindful of Allah, and He will protect you. Be mindful of Allah, and you will find Him before you.",
+        "fr": "Préserve les droits d'Allah, Il te préservera. Préserve les droits d'Allah, tu Le trouveras devant toi.",
+        "es": "Sé consciente de Allah y Él te protegerá. Sé consciente de Allah y Le encontrarás ante ti.",
+        "de": "Bewahre Allah, so bewahrt Er dich. Bewahre Allah, so findest du Ihn vor dir.",
+        "ru": "Храни законы Аллаха, и Он защитит тебя. Храни законы Аллаха, и ты найдешь Его перед собой.",
+        "id": "Jagalah Allah, niscaya Ia menjagamu. Jagalah Allah, niscaya kau dapati Ia di hadapanmu.",
+        "tr": "Allah'ı koru ki O da seni korusun. Allah'ı gözet ki O'nu daima yanında bulasın."
+      }
+    },
+    {
+      "id": 36,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "استعينوا على أنفاقكم بالكتمان.",
+        "en": "Seek assistance in fulfilling your needs by keeping them secret.",
+        "fr": "Cherchez l'aide pour accomplir vos besoins en les cachant.",
+        "es": "Buscad ayuda para lograr vuestras necesidades manteniéndolas en secreto.",
+        "de": "Sucht Hilfe bei der Erfüllung eurer Bedürfnisse im Verborgenen.",
+        "ru": "Ищите помощи в удовлетворении своих нужд втайне.",
+        "id": "Mintalah pertolongan dalam merahasiakan hajat-hajat kalian.",
+        "tr": "İhtiyaçlarınızın gerçekleşmesi için onları gizli tutarak yardım isteyin."
+      }
+    },
+    {
+      "id": 37,
+      "narrator": {
+        "ar": "أبو ذر الغفاري رضي الله عنه",
+        "en": "Abu Dharr al-Ghifari",
+        "fr": "Abû Dharr al-Ghifârî",
+        "es": "Abu Dharr al-Ghifari",
+        "de": "Abu Dharr al-Ghifari",
+        "ru": "Абу Зарр аль-Гифари",
+        "id": "Abu Dzar al-Ghifari",
+        "tr": "Ebu Zer el-Gıfari"
+      },
+      "text": {
+        "ar": "القناعة مال لا ينفد.",
+        "en": "Contentment is wealth that never runs out.",
+        "fr": "Le contentement est une richesse qui ne s'épuise jamais.",
+        "es": "La satisfacción es una riqueza que nunca se agota.",
+        "de": "Die Genügsamkeit ist ein Reichtum, der niemals ausgeht.",
+        "ru": "Довольство малым — это богатство, которое не иссякает.",
+        "id": "Kecukupan (qanaah) adalah harta yang tidak akan pernah habis.",
+        "tr": "Kanaat, tükenmeyen bir servettir."
+      }
+    },
+    {
+      "id": 38,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "من حسن إسلام المرء تركه ما لا يعنيه.",
+        "en": "Part of the perfection of a person's Islam is his leaving that which does not concern him.",
+        "fr": "Parmi la belle pratique de l'islam d'une personne, il y a le fait de délaisser ce qui ne la regarde pas.",
+        "es": "Parte de la perfección del Islam de una persona es dejar lo que no le concierne.",
+        "de": "Zu der Vollkommenheit des Islams einer Person gehört das Verlassen dessen, was sie nichts angeht.",
+        "ru": "Из числа прекрасного ислама человека — оставление им того, что его не касается.",
+        "id": "Di antara tanda kebaikan keislaman seseorang adalah meninggalkan apa yang tidak baginya (tidak penting baginya).",
+        "tr": "Kişinin İslam'ının güzelliğinden biri de kendisini ilgilendirmeyen şeyleri terk etmesidir."
+      }
+    },
+    {
+      "id": 39,
+      "narrator": {
+        "ar": "أبو سعيد الخدري رضي الله عنه",
+        "en": "Abu Sa'id al-Khudri",
+        "fr": "Abû Sa'id al-Khudri",
+        "es": "Abu Sa'id al-Khudri",
+        "de": "Abu Sa'id al-Khudri",
+        "ru": "Абу Саид аль-Худри",
+        "id": "Abu Sa'id al-Khudri",
+        "tr": "Ebu Said el-Hudri"
+      },
+      "text": {
+        "ar": "ما أعطى الله عبدا عطاء خيرا وأوسع من الصبر.",
+        "en": "Allah has not given a servant a gift better and more expansive than patience.",
+        "fr": "Allah n'a pas donné à un serviteur un don meilleur et plus vaste que la patience.",
+        "es": "Allah no le ha dado a un siervo un don mejor y más amplio que la paciencia.",
+        "de": "Allah hat einem Diener kein Geschenk gegeben, das besser und umfassender ist als die Geduld.",
+        "ru": "Не даровал Аллах рабу лучшего и более обширного дара, чем терпение.",
+        "id": "Tidaklah Allah memberikan kepada seseorang pemberian yang lebih baik dan lebih luas daripada kesabaran.",
+        "tr": "Allah bir kula sabırdan daha hayırlı ve daha kapsamlı bir ihsanda bulunmamıştır."
+      }
+    },
+    {
+      "id": 40,
+      "narrator": {
+        "ar": "أبو هريرة رضي الله عنه",
+        "en": "Abu Hurairah",
+        "fr": "Abû Hurayra",
+        "es": "Abu Hurairah",
+        "de": "Abu Huraira",
+        "ru": "Абу Хурайра",
+        "id": "Abu Hurairah",
+        "tr": "Ebu Hureyre"
+      },
+      "text": {
+        "ar": "المستشار مؤتمن.",
+        "en": "The one who is consulted is trusted.",
+        "fr": "Celui que l'on consulte est digne de confiance.",
+        "es": "Aquel a quien se consulta es digno de confianza.",
+        "de": "Derjenige, um Rat gefragt wird, ist vertrauenswürdig.",
+        "ru": "Тот, с кем совещаются, обязан хранить секрет (заслуживает доверия).",
+        "id": "Orang yang diajak bermusyawarah itu dapat dipercaya.",
+        "tr": "Kendisiyle istişare edilen kimse güvenilirdir."
+      }
+    }
+  ]
+}

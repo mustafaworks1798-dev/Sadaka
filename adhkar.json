@@ -1,0 +1,529 @@
+{
+  "adhkar": [
+    {
+      "id": 1,
+      "category": "morning",
+      "title": {
+        "ar": "أذكار الصباح",
+        "en": "Morning Adhkar",
+        "fr": "Invocations du matin",
+        "es": "Adhkar de la mañana",
+        "de": "Morgen-Adhkar",
+        "ru": "Утренние азкары",
+        "id": "Dzikir Pagi",
+        "tr": "Sabah Zikirleri"
+      },
+      "content": {
+        "ar": "أصبحنا وأصبح الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير.",
+        "en": "We have reached the morning and at this very time unto Allah belongs dominion, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs dominion, and to Him belongs praise, and He is able to do all things.",
+        "fr": "Nous voilà au matin et la royauté appartient à Allah, et louange à Allah. Nulle divinité si ce n'est Allah, Seul sans associé. À Lui la royauté et à Lui la louange, et Il est capable de toute chose.",
+        "es": "Hemos llegado a la mañana y con ella el reino pertenece a Allah, y toda alabanza es para Allah. No hay más divinidad que Allah, Único, sin socio. Suyo es el reino y Suya es la alabanza, y Él es Todopoderoso sobre todas las cosas.",
+        "de": "Wir haben den Morgen erreicht, und die Herrschaft gehört Allah, und alles Lob gebührt Allah. Niemand hat das Recht, angebetet zu werden außer Allah, dem Einzigen ohne Partner. Ihm gehört die Herrschaft und Ihm gebührt das Lob, und Er ist imstande, alle Dinge zu tun.",
+        "ru": "Мы дожили до утра, и в это время вся власть принадлежит Аллаху, и вся хвала Аллаху. Нет бога, кроме Одного лишь Аллаха, у Которого нет сотоварищей. Ему принадлежит власть и Ему хвала, и Он способен на всякую вещь.",
+        "id": "Kami telah memasuki waktu pagi dan kerajaan hanya milik Allah, segala puji bagi Allah. Tidak ada Tuhan yang berhak disembah selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu.",
+        "tr": "Sabaha çıktık ve mülk da Allah'a ait olarak sabahladı. Hamd Allah'a mahsustur. Allah'tan başka ilah yoktur, O tek ve ortaksızdır. Mülk O'nundur, hamd O'na mahsustur ve O her şeye gücü yetendir."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    },
+    {
+      "id": 2,
+      "category": "morning",
+      "title": {
+        "ar": "آية الكرسي",
+        "en": "Ayat al-Kursi",
+        "fr": "Ayat al-Kursi",
+        "es": "Ayat al-Kursi",
+        "de": "Ayat al-Kursi",
+        "ru": "Аят аль-Курси",
+        "id": "Ayat Kursi",
+        "tr": "Ayetel Kürsi"
+      },
+      "content": {
+        "ar": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تأخذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ.",
+        "en": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of all existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth.",
+        "fr": "Allah ! Point de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même. Ni somnolence ni sommeil ne Le saisissent. À Lui appartient tout ce qui est dans les cieux et sur la terre.",
+        "es": "¡Allah! No hay más divinidad que Él, el Viviente, el Sustentador de todo lo existente. Ni la somnolencia ni el sueño se apoderan de Él. Suyo es cuanto hay en los cielos y cuanto hay en la tierra.",
+        "de": "Allah! Es gibt keinen Gott außer Ihm, dem Lebendigen, dem Beständigen. Ihn ergreift weder Schlummer noch Schlaf. Ihm gehört, was in den Himmeln und was auf der Erde ist.",
+        "ru": "Аллах — нет божества, кроме Него, Живого, Сущего. Не одолевает Его ни дремота, ни сон. Ему принадлежит то, что в небесах, и то, что на земле.",
+        "id": "Allah, tidak ada Tuhan selain Dia. Yang Maha Hidup lagi terus menerus mengurus makhluk-Nya. Tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi.",
+        "tr": "Allah ki, O'ndan başka ilah yoktur; O, hayy ve kayyumdur. O'nu ne uyuklama ne de uyku tutmaz. Göklerde ve yerde ne varsa O'nundur."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "سورة البقرة - 255",
+        "en": "Surah Al-Baqarah - 255",
+        "fr": "Sourate Al-Baqarah - 255",
+        "es": "Surah Al-Baqarah - 255",
+        "de": "Sure Al-Baqarah - 255",
+        "ru": "Сура Аль-Бакара — 255",
+        "id": "Surah Al-Baqarah - 255",
+        "tr": "Bakara Suresi - 255"
+      }
+    },
+    {
+      "id": 3,
+      "category": "morning",
+      "title": {
+        "ar": "سيد الاستغفار",
+        "en": "Master of Istighfar",
+        "fr": "Maître de l'Istighfar",
+        "es": "Señor del Istighfar",
+        "de": "Meister des Istighfar",
+        "ru": "Господин истигфара",
+        "id": "Sayyidul Istighfar",
+        "tr": "Seyyidül İstiğfar"
+      },
+      "content": {
+        "ar": "اللهم أنت ربي لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذ بك من شر ما صنعت، أبوء لك بنعمتك علي، وأبوء بذنبي فاغفر لي فانه لا يغفر الذنوب إلا أنت.",
+        "en": "O Allah, You are my Lord, none has the right to be worshipped except You. You created me and I am Your servant, and I am faithful to my covenant and my promise to You as much as I am able. I seek refuge in You from the evil of what I have done. I acknowledge before You Your blessings upon me, and I acknowledge my sin, so forgive me, for indeed none forgives sins except You.",
+        "fr": "Ô Allah, Tu es mon Seigneur, nulle divinité si ce n'est Toi, Tu m'as créé et je suis Ton serviteur. Je suis fidèle à ton engagement et à ta promesse autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai fait. Je reconnais Tes bienfaits envers moi et je reconnais mon péché, pardonne-moi donc, car nul ne pardonne les péchés si ce n'Toi.",
+        "es": "Oh Allah, Tú eres mi Señor, no hay más divinidad que Tú. Me has creado y soy Tu siervo, y cumplo con mi pacto y promesa hacia Ti tanto como puedo. Me refugio en Ti del mal de lo que he hecho. Reconozco Tus mercedes sobre mí y reconozco mi pecado, ¡así que perdóname!, porque nadie perdona los pecados sino Tú.",
+        "de": "O Allah, Du bist mein Herr, es gibt keinen Gott außer Dir. Du hast mich erschaffen und ich bin Dein Diener. Ich halte Deinen Bund und Deine Verheißung ein, so gut ich kann. Ich suche Zuflucht bei Dir vor dem Bösen dessen, was ich getan habe. Ich erkenne Deine Gunst an mir und ich erkenne meine Sünde an, darum vergib mir, denn niemand vergibt Sünden außer Dir.",
+        "ru": "О Аллах, Ты — мой Господь, и нет божества, кроме Тебя. Ты создал меня, и я — Твой раб, и я верен Твоему завету и обещанию, насколько могу. Я прибегаю к Тебе от зла того, что я сотворил. Я признаю милость Твою ко мне и признаю свой грех, прости же меня, ибо никто не прощает грехи, кроме Тебя.",
+        "id": "Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan selain Engkau. Engkau yang menciptakanku dan aku adalah hamba-Mu. Aku menetapi janji dan ancaman-Mu sesuai dengan kemampuanku...",
+        "tr": "Allah'ım! Sen benim Rabbimsin, O'ndan başka ilah yoktur. Beni Sen yarattın ve ben senin kulunum. Gücüm yettiğince sana verdiğim söz ve ahid üzerindeyim..."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه البخاري",
+        "en": "Sahih Al-Bukhari",
+        "fr": "Rapporté par Al-Bukhari",
+        "es": "Registrado por Al-Bukhari",
+        "de": "Überliefert von Al-Bukhari",
+        "ru": "Передал аль-Бухари",
+        "id": "Diriwayatkan oleh Al-Bukhari",
+        "tr": "Buhari rivayet etmiştir"
+      }
+    },
+    {
+      "id": 4,
+      "category": "evening",
+      "title": {
+        "ar": "أذكار المساء",
+        "en": "Evening Adhkar",
+        "fr": "Invocations du soir",
+        "es": "Adhkar de la tarde",
+        "de": "Abend-Adhkar",
+        "ru": "Вечерние азкары",
+        "id": "Dzikir Petang",
+        "tr": "Akşam Zikirleri"
+      },
+      "content": {
+        "ar": "أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير.",
+        "en": "We have reached the evening and at this very time unto Allah belongs dominion, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs dominion, and to Him belongs praise, and He is able to do all things.",
+        "fr": "Nous voilà au soir et la royauté appartient à Allah, et louange à Allah. Nulle divinité si ce n'est Allah, Seul sans associé. À Lui la royauté et à Lui la louange, et Il est capable de toute chose.",
+        "es": "Hemos llegado a la tarde y con ella el reino pertenece a Allah, y toda alabanza es para Allah. No hay más divinidad que Allah, Único, sin socio. Suyo es el reino y Suya es la alabanza, y Él es Todopoderoso sobre todas las cosas.",
+        "de": "Wir haben den Abend erreicht, und die Herrschaft gehört Allah, und alles Lob gebührt Allah. Niemand hat das Recht, angebetet zu werden außer Allah, dem Einzigen ohne Partner. Ihm gehört die Herrschaft und Ihm gebührt das Lob, und Er ist imstande, alle Dinge zu tun.",
+        "ru": "Мы дожили до вечера, и в это время вся власть принадлежит Аллаху, и вся хвала Аллаху. Нет бога, кроме Одного лишь Аллаха, у Которого нет сотоварищей. Ему принадлежит власть и Ему хвала, и Он способен на всякую вещь.",
+        "id": "Kami telah memasuki waktu sore dan kerajaan hanya milik Allah, segala puji bagi Allah. Tidak ada Tuhan yang berhak disembah selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu.",
+        "tr": "Akşama ulaştık ve mülk de Allah'a ait olarak akşamladı. Hamd Allah'a mahsustur. Allah'tan başka ilah yoktur, O tek ve ortaksızdır..."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    },
+    {
+      "id": 5,
+      "category": "evening",
+      "title": {
+        "ar": "دعاء الحفظ والوقاية",
+        "en": "Supplication for Protection",
+        "fr": "Invocation de protection",
+        "es": "Súplica de protección",
+        "de": "Bittgebet um Schutz",
+        "ru": "Мольба о защите",
+        "id": "Doa Perlindungan",
+        "tr": "Korunma Duası"
+      },
+      "content": {
+        "ar": "بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم.",
+        "en": "In the name of Allah, with Whose name nothing can harm on earth or in the heavens, and He is the All-Hearing, the All-Knowing.",
+        "fr": "Au nom d'Allah, avec Lequel rien ne nuit sur terre ni dans le ciel, et Il est l'Audient, l'Omniscient.",
+        "es": "En el nombre de Allah, con cuyo nombre nada puede dañar ni en la tierra ni en el cielo, y Él es el Oyente, el Sabelotodo.",
+        "de": "Im Namen Allahs, mit Dessen Namen weder auf der Erde noch im Himmel etwas schaden kann, und Er ist der Allhörende, der Allwissende.",
+        "ru": "С именем Аллаха, с именем Которого ничто не причинит вреда ни на земле, ни на небе, ведь Он — Слышащий, Знающий.",
+        "id": "Dengan nama Allah yang bersama nama-Nya tidak ada sesuatu pun di bumi dan di langit yang dapat membahayakan, dan Dia Maha Mendengar lagi Maha Mengetahui.",
+        "tr": "O'nun adı sayesinde yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla. O, her şeyi işiten ve bilendir."
+      },
+      "repeat": 3,
+      "reference": {
+        "ar": "رواه أبو داود والترمذي",
+        "en": "Abu Dawud & Tirmidhi",
+        "fr": "Rapporté par Abu Dawud et At-Tirmidhi",
+        "es": "Registrado por Abu Dawud y At-Tirmidhi",
+        "de": "Überliefert von Abu Dawud und Tirmidhi",
+        "ru": "Передали Абу Давуд и ат-Тирмизи",
+        "id": "Diriwayatkan oleh Abu Dawud dan Tirmidhi",
+        "tr": "Ebu Davud ve Tirmizi rivayet etmiştir"
+      }
+    },
+    {
+      "id": 6,
+      "category": "sleep",
+      "title": {
+        "ar": "أذكار النوم",
+        "en": "Sleep Adhkar",
+        "fr": "Invocations avant de dormir",
+        "es": "Adhkar antes de dormir",
+        "de": "Schlaf-Adhkar",
+        "ru": "Азкары перед сном",
+        "id": "Dzikir Sebelum Tidur",
+        "tr": "Uyku Zikirleri"
+      },
+      "content": {
+        "ar": "باسمك ربي وضعت جنبي وبك أرفعه، إن أمسكت نفسي فارحمها، وإن أرسلتها فاحفظها بما تحفظ به عبادك الصالحين.",
+        "en": "In Your name, my Lord, I lie down, and in Your name I rise. If You take my soul, have mercy on it, and if You send it back, protect it with that which You protect Your righteous slaves.",
+        "fr": "C'est en Ton nom, ô mon Seigneur, que je pose mon flanc et c'est par Toi que je le relève. Si Tu retiens mon âme, fais-lui miséricorde...",
+        "es": "En Tu nombre, Señor mío, me acuesto y en Tu nombre me levanto...",
+        "de": "In Deinem Namen, mein Herr, lege ich mich hin, und in Deinem Namen erhebe ich mich...",
+        "ru": "Именем Твоим, о мой Господь, я уложил свой бок и Твоим именем я поднимаю его...",
+        "id": "Dengan nama-Mu, ya Tuhanku, aku meletakkan lambungku dan dengan nama-Mu aku mengangkatnya...",
+        "tr": "Ey Rabbim! Senin adınla yanımı yatağa koydum ve yine senin adınla onu kaldıracağım..."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "متفق عليه",
+        "en": "Agreed Upon (Al-Bukhari & Muslim)",
+        "fr": "Unanimement authentique",
+        "es": "Acordado",
+        "de": "Übereinstimmend",
+        "ru": "Согласованный хадис",
+        "id": "Disepakati",
+        "tr": "Müttefekun aleyh"
+      }
+    },
+    {
+      "id": 7,
+      "category": "wakeup",
+      "title": {
+        "ar": "أذكار الاستيقاظ من النوم",
+        "en": "Adhkar upon Waking Up",
+        "fr": "Invocations au réveil",
+        "es": "Adhkar al despertar",
+        "de": "Adhkar beim Aufwachen",
+        "ru": "Азкары после пробуждения",
+        "id": "Dzikir Bangun Tidur",
+        "tr": "Uyanma Zikirleri"
+      },
+      "content": {
+        "ar": "الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور.",
+        "en": "All praise is for Allah who gave us life after having taken it from us, and unto Him is the resurrection.",
+        "fr": "Louange à Allah qui nous a redonné vie après nous avoir fait mourir, et c'est vers Lui que sera la résurrection.",
+        "es": "Toda alabanza es para Allah que nos dio la vida después de habernos dado la muerte...",
+        "de": "Alles Lob gebührt Allah, der uns Leben gegeben hat, nachdem Er uns sterben ließ...",
+        "ru": "Хвала Аллаху, Который оживил нас после того, как умертвил нас, и к Нему возвращение.",
+        "id": "Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami...",
+        "tr": "Bizi öldürdükten sonra dirilten Allah'a hamd olsun. Dönüş O'nadır."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه البخاري",
+        "en": "Sahih Al-Bukhari",
+        "fr": "Rapporté par Al-Bukhari",
+        "es": "Registrado por Al-Bukhari",
+        "de": "Überliefert von Al-Bukhari",
+        "ru": "Передал аль-Бухари",
+        "id": "Diriwayatkan oleh Al-Bukhari",
+        "tr": "Buhari rivayet etmiştir"
+      }
+    },
+    {
+      "id": 8,
+      "category": "travel",
+      "title": {
+        "ar": "دعاء السفر",
+        "en": "Travel Supplication",
+        "fr": "Invocation du voyage",
+        "es": "Súplica del viaje",
+        "de": "Reise-Bittgebet",
+        "ru": "Мольба в путешествии",
+        "id": "Doa Bepergian",
+        "tr": "Yolculuk Duası"
+      },
+      "content": {
+        "ar": "الله أكبر، الله أكبر، الله أكبر، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ.",
+        "en": "Allah is the greatest... Glory is to Him who has provided this for us, and we could never have had it by ourselves.",
+        "fr": "Allah est le plus grand... Gloire à Celui qui a mis ceci à notre service...",
+        "es": "Allah es el más grande... Glorificado sea Aquel que ha puesto esto a nuestro servicio...",
+        "de": "Allah ist am größten... Preis sei Dem, der uns dies dienstbar gemacht hat...",
+        "ru": "Аллах велик... Пречист Тот, Кто подчинил нам это...",
+        "id": "Allah Maha Besar... Maha Suci Tuhan yang telah menundukkan kendaraan ini...",
+        "tr": "Allah en büyüktür... Bunları bizim hizmetimize veren Allah'ın şanı yücedir..."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    },
+    {
+      "id": 9,
+      "category": "mosque",
+      "title": {
+        "ar": "دخول المسجد",
+        "en": "Entering the Mosque",
+        "fr": "Entrer à la mosquée",
+        "es": "Entrar a la mezquita",
+        "de": "Betreten der Moschee",
+        "ru": "Вход в мечеть",
+        "id": "Masuk Masjid",
+        "tr": "Camiye Giriş Duası"
+      },
+      "content": {
+        "ar": "اللهم افتح لي أبواب رحمتك.",
+        "en": "O Allah, open for me the doors of Your mercy.",
+        "fr": "Ô Allah, ouvre-moi les portes de Ta miséricorde.",
+        "es": "Oh Allah, ábreme las puertas de Tu misericordia.",
+        "de": "O Allah, öffne mir die Tore Deiner Barmherzigkeit.",
+        "ru": "О Аллах, открой для меня врата Твоей милости.",
+        "id": "Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu.",
+        "tr": "Allah'ım! Bana rahmet kapılarını aç."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    },
+    {
+      "id": 10,
+      "category": "mosque",
+      "title": {
+        "ar": "الخروج من المسجد",
+        "en": "Leaving the Mosque",
+        "fr": "Sortir de la mosquée",
+        "es": "Salir de la mezquita",
+        "de": "Verlassen der Moschee",
+        "ru": "Выход из мечети",
+        "id": "Keluar Masjid",
+        "tr": "Camiden Çıkış Duası"
+      },
+      "content": {
+        "ar": "اللهم إني أسألك من فضلك.",
+        "en": "O Allah, I ask You from Your bounty.",
+        "fr": "Ô Allah, je Te demande de Tes bienfaits.",
+        "es": "Oh Allah, Te pido de Tu favor.",
+        "de": "O Allah, ich bitte Dich um Deine Gunst.",
+        "ru": "О Аллах, поистине, я прошу у Тебя Твоей милости (блага).",
+        "id": "Ya Allah, sesungguhnya aku memohon karunia kepada-Mu.",
+        "tr": "Allah'ım! Şüphesiz ben senden lütfunu istiyorum."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    },
+    {
+      "id": 11,
+      "category": "ablution",
+      "title": {
+        "ar": "الوضوء",
+        "en": "After Ablution",
+        "fr": "Après les ablutions",
+        "es": "Después de la ablución",
+        "de": "Nach der Waschung (Wudu)",
+        "ru": "После омовения",
+        "id": "Setelah Wudhu",
+        "tr": "Abdest Sonrası Duası"
+      },
+      "content": {
+        "ar": "أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدا عبده ورسوله.",
+        "en": "I bear witness that none has the right to be worshipped except Allah alone, without partner, and I bear witness that Muhammad is His servant and Messenger.",
+        "fr": "J'atteste qu'il n'y a de divinité qu'Allah Seul sans associé, et j'atteste que Muhammad est Son serviteur et Messager.",
+        "es": "Doy testimonio de que no hay más divinidad que Allah, Único, sin socio, y doy testimonio de que Muhammad es Su siervo y Mensajero.",
+        "de": "Ich bezeuge, dass es keinen Gott gibt außer Allah allein, Ohne Partner, und ich bezeuge, dass Muhammad Sein Diener und Gesandter ist.",
+        "ru": "Свидетельствую, что нет божества, кроме одного лишь Аллаха, у Которого нет сотоварища, и свидетельствую, что Мухаммад — Его раб и Его посланник.",
+        "id": "Aku bersaksi bahwa tidak ada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.",
+        "tr": "Şehadet ederim ki Allah'tan başka ilah yoktur, O tektir, ortağı yoktur ve yine şehadet ederim ki Muhammed O'nun kulu ve elçisidir."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    },
+    {
+      "id": 12,
+      "category": "home",
+      "title": {
+        "ar": "دخول المنزل",
+        "en": "Entering the Home",
+        "fr": "Entrer à la maison",
+        "es": "Entrar a la casa",
+        "de": "Betreten des Hauses",
+        "ru": "Вход в дом",
+        "id": "Masuk Rumah",
+        "tr": "Eve Giriş Duası"
+      },
+      "content": {
+        "ar": "بسم الله ولجنا، وبسم الله خرجنا، وعلى ربنا توكلنا.",
+        "en": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we rely.",
+        "fr": "Au nom d'Allah nous entrons, au nom d'Allah nous sortons, et en notre Seigneur nous plaçons notre confiance.",
+        "es": "En el nombre de Allah entramos, en el nombre de Allah salimos, y en nuestro Señor confiamos.",
+        "de": "Im Namen Allahs treten wir ein, im Namen Allahs treten wir aus, und auf unseren Herrn vertrauen wir.",
+        "ru": "С именем Аллаха мы вошли, с именем Аллаха вышли, и на нашего Господа мы уповаем.",
+        "id": "Dengan nama Allah kami masuk, dengan nama Allah kami keluar, dan kepada Tuhan kami kami bertawakal.",
+        "tr": "Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve Rabbimize tevekkül ettik."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه أبو داود",
+        "en": "Sunan Abu Dawud",
+        "fr": "Rapporté par Abu Dawud",
+        "es": "Registrado por Abu Dawud",
+        "de": "Überliefert von Abu Dawud",
+        "ru": "Передал Абу Давуд",
+        "id": "Diriwayatkan oleh Abu Dawud",
+        "tr": "Ebu Davud rivayet etmiştir"
+      }
+    },
+    {
+      "id": 13,
+      "category": "food",
+      "title": {
+        "ar": "قبل الطعام",
+        "en": "Before Eating",
+        "fr": "Avant de manger",
+        "es": "Antes de comer",
+        "de": "Vor dem Essen",
+        "ru": "Перед едой",
+        "id": "Sebelum Makan",
+        "tr": "Yemek Öncesi Duası"
+      },
+      "content": {
+        "ar": "بسم الله.",
+        "en": "In the name of Allah.",
+        "fr": "Au nom d'Allah.",
+        "es": "En el nombre de Allah.",
+        "de": "Im Namen Allahs.",
+        "ru": "С именем Аллаха.",
+        "id": "Dengan nama Allah.",
+        "tr": "Bismillah (Allah'ın adıyla)."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه الترمذي وابن ماجه",
+        "en": "At-Tirmidhi & Ibn Majah",
+        "fr": "Rapporté par At-Tirmidhi et Ibn Majah",
+        "es": "Registrado por At-Tirmidhi e Ibn Majah",
+        "de": "Überliefert von Tirmidhi und Ibn Majah",
+        "ru": "Передали ат-Тирмизи и Ибн Маджа",
+        "id": "Diriwayatkan oleh Tirmidhi dan Ibn Majah",
+        "tr": "Tirmizi ve İbni Mace rivayet etmiştir"
+      }
+    },
+    {
+      "id": 14,
+      "category": "food",
+      "title": {
+        "ar": "بعد الطعام",
+        "en": "After Eating",
+        "fr": "Après avoir mangé",
+        "es": "Después de comer",
+        "de": "Nach dem Essen",
+        "ru": "После еды",
+        "id": "Setelah Makan",
+        "tr": "Yemek Sonrası Duası"
+      },
+      "content": {
+        "ar": "الحمد لله الذي أطعمني هذا ورزقنيه من غير حول مني ولا قوة.",
+        "en": "All praise is for Allah who fed me this and provided it for me without any might or power from myself.",
+        "fr": "Louange à Allah qui m'a nourri de ceci et me l'a attribué sans force ni puissance de ma part.",
+        "es": "Toda alabanza es para Allah que me alimentó con esto y me lo provino sin fuerza ni poder por mi parte.",
+        "de": "Alles Lob gebührt Allah, der mich hiermit gespeist und es mir versorgt hat, ohne Macht oder Kraft von mir.",
+        "ru": "Хвала Аллаху, Который накормил меня этим и наделил меня этим без какого-либо могущества и силы с моей стороны.",
+        "id": "Segala puji bagi Allah yang telah memberiku makanan ini dan memberi rezeki kepadanya tanpa daya dan kekuatan dariku.",
+        "tr": "Bana bunu yediren ve benden hiçbir güç ve kuvvet olmadan bunu bana rızık kılan Allah'a hamd olsun."
+      },
+      "repeat": 1,
+      "reference": {
+        "ar": "رواه أبو داود والترمذي",
+        "en": "Abu Dawud & Tirmidhi",
+        "fr": "Rapporté par Abu Dawud et At-Tirmidhi",
+        "es": "Registrado por Abu Dawud y At-Tirmidhi",
+        "de": "Überliefert von Abu Dawud und Tirmidhi",
+        "ru": "Передали Абу Давуд и ат-Тирмизи",
+        "id": "Diriwayatkan oleh Abu Dawud dan Tirmidhi",
+        "tr": "Ebu Davud ve Tirmizi rivayet etmiştir"
+      }
+    },
+    {
+      "id": 15,
+      "category": "general",
+      "title": {
+        "ar": "الاستغفار والتسبيح",
+        "en": "Tasbih and Istighfar",
+        "fr": "Tasbih et Istighfar",
+        "es": "Tasbih e Istighfar",
+        "de": "Tasbih und Istighfar",
+        "ru": "Тасбих и истигфар",
+        "id": "Tasbih dan Istighfar",
+        "tr": "Tesbih ve İstiğfar"
+      },
+      "content": {
+        "ar": "سبحان الله والحمد لله ولا إله إلا الله والله أكبر.",
+        "en": "Glory is to Allah, all praise is for Allah, none has the right to be worshipped except Allah, and Allah is the greatest.",
+        "fr": "Gloire à Allah, louange à Allah, nulle divinité si ce n'est Allah, et Allah est le plus grand.",
+        "es": "Glorificado sea Allah, toda alabanza es para Allah, no hay más divinidad que Allah, y Allah es el más grande.",
+        "de": "Preis sei Allah, alles Lob gebührt Allah, es gibt keinen Gott außer Allah, und Allah ist am größten.",
+        "ru": "Пречист Аллах, хвала Аллаху, нет бога, кроме Аллаха, и Аллах велик.",
+        "id": "Maha Suci Allah, segala puji bagi Allah, tidak ada Tuhan selain Allah, dan Allah Maha Besar.",
+        "tr": "Allah'ı tesbih ederim, hamd Allah'a mahsustur, Allah'tan başka ilah yoktur ve Allah en büyüktür."
+      },
+      "repeat": 100,
+      "reference": {
+        "ar": "رواه مسلم",
+        "en": "Sahih Muslim",
+        "fr": "Rapporté par Muslim",
+        "es": "Registrado por Muslim",
+        "de": "Überliefert von Muslim",
+        "ru": "Передал Муслим",
+        "id": "Diriwayatkan oleh Muslim",
+        "tr": "Müslim rivayet etmiştir"
+      }
+    }
+  ]
+}
